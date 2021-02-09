@@ -1,0 +1,27 @@
+[
+    {
+        "$comment": "This is a comment.",
+        "pack": {
+            "icon": "https://media.forgecdn.net/avatars/thumbnails/294/650/64/64/637333904754655793.png",
+            "game_version": "1.16.1",
+            "title": "Construction Blocks [Forge Edition]",
+            "description": "Construction blocks add tons of new blocks to use for your buildings."
+        },
+        "download": {
+            "url": "https://www.curseforge.com/minecraft/mc-mods/construction-blocks",
+            "title": "Go to curseforge.com"
+        }
+    },
+    {
+        "pack": {
+            "icon": "https://media.forgecdn.net/avatars/thumbnails/294/650/64/64/637333904754655793.png",
+            "game_version": "1.16.2",
+            "title": "Construction Blocks [Forge Edition]",
+            "description": "Construction blocks add tons of new blocks to use for your buildings."
+        },
+        "download": {
+            "url": "https://www.curseforge.com/minecraft/mc-mods/construction-blocks",
+            "title": "Go to curseforge.com"
+        }
+    }
+]

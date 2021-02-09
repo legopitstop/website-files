@@ -1,0 +1,41 @@
+<header></header>
+<body></body>
+<div id=pack></div>
+<style>
+    .pack {
+        color: lightgray;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        transition: 0.3s;
+        background-color: gray;
+        padding: 10px;
+        padding-bottom:10px;
+    }
+
+    .pack:hover {
+        box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+        background-color: lightgray;
+        color: gray;
+    }
+
+    .pack-image {
+        width:256;
+        max-width:100%;
+        vertical-align: top;
+        padding: 5px;
+    }
+    .pack-text-block {
+        display: inline-block;
+    }
+</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js">//required api</script>
+<script>
+    var JSONURL = "https://raw.githubusercontent.com/legopitstop/website-files/main/json/datapacks.json"; // json location to read. Put "./<name>.json" for local file.
+
+    $(document).ready(function () {
+        $.getJSON(JSONURL, function (loadedFile) {
+            $.each(loadedFile, function (i, json) {
+                $("#pack").append("<br><div class=\"pack\"> <img class=\"pack-image\" src=\"" + json.pack.icon + "\" alt=\"pack.png\"> <div class=\"pack-text-block\"> <h1>" + json.pack.title + "</h1> <p style=\"font-size:80%;\">Game Version: " + json.pack.game_version + "</p> <p>" + json.pack.description + "</p> <a class=\"wsite-button wsite-button-small wsite-button-normal\" href=\"" + json.download.url + "\" target=\"_blank\" title=\"" + json.download.title + "\"><span class=\"wsite-button-inner\">Download</span></a> </div> </div>");
+            });
+        });
+    });
+</script>

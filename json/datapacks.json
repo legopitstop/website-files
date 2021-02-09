@@ -7,7 +7,7 @@
             "description": "This Pack adds in lots of plants."
         },
         "download": {
-            "url": "https://www.curseforge.com/minecraft/customization/more-plants-datapack/files",
+            "url": "https://www.curseforge.com/minecraft/customization/more-plants-datapack",
             "title": "Go to curseforge.com"
         }
     },
@@ -19,7 +19,7 @@
             "description": "A /head command but for vanilla Minecraft!"
         },
         "download": {
-            "url": "https://www.curseforge.com/minecraft/customization/place-on-head-datapack-edition/files",
+            "url": "https://www.curseforge.com/minecraft/customization/place-on-head-datapack-edition",
             "title": "Go to curseforge.com"
         }
     },
@@ -31,7 +31,7 @@
             "description": "Adds new NBT Tags to make customization more easier!"
         },
         "download": {
-            "url": "https://www.curseforge.com/minecraft/customization/more-nbt-tags-datapack-edition/files",
+            "url": "https://www.curseforge.com/minecraft/customization/more-nbt-tags-datapack-edition",
             "title": "Go to curseforge.com"
         }
     },

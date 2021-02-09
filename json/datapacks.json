@@ -1,18 +1,6 @@
 [
     {
         "pack": {
-            "icon": "image",
-            "game_version": "1.16.5",
-            "title": "title",
-            "description": "desc"
-        },
-        "download": {
-            "url": "url",
-            "title": "Go to curseforge.com"
-        }
-    },
-    {
-        "pack": {
             "icon": "https://media.forgecdn.net/avatars/thumbnails/235/58/64/64/637083153242401671.png",
             "game_version": "1.16.5",
             "title": "More Plants",
@@ -188,18 +176,6 @@
         },
         "download": {
             "url": "https://www.curseforge.com/minecraft/customization/invisible-item-frames-datapack",
-            "title": "Go to curseforge.com"
-        }
-    },
-    {
-        "pack": {
-            "icon": "image",
-            "game_version": "1.16.5",
-            "title": "title",
-            "description": "desc"
-        },
-        "download": {
-            "url": "url",
             "title": "Go to curseforge.com"
         }
     },

@@ -1,0 +1,37 @@
+<header>
+    <style>
+        .faq-list {
+            color: black;
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+            transition: 0.3s;
+            display: block;
+            background-color: lightgray;
+            padding: 10px;
+        }
+
+        .faq-list-ans {
+            padding-left: 10px;
+        }
+
+        .faq-list:hover {
+            box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+            background-color: gray;
+        }
+    </style>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js">//required api</script>
+    <script>
+        var JSONURL = "https://raw.githubusercontent.com/legopitstop/website-files/main/json/faq.json"; // json location to read. Put "./<name>.json" for local file.
+
+        $(document).ready(function () {
+            $.getJSON(JSONURL, function (loadedFile) {
+                $.each(loadedFile, function (i, json) {
+                    $("#faq-list").append("<br><div class=\"faq-list\"><b>" + json.Question + "</b><p class=\"faq-list-ans\">" + json.Answer + "</p></div>");
+                });
+            });
+        });
+    </script>
+</header>
+
+<body>
+    <span id=faq-list></span>
+</body>

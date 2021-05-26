@@ -1,0 +1,7 @@
+{
+    "$schema": "https://raw.githubusercontent.com/legopitstop/JSON-Schemas/main/schemas/shields.io/schema.json",
+    "schemaVersion": 1,
+    "label": "Projects",
+    "message": "112",
+    "color": "orange"
+}

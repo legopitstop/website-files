@@ -1,5 +1,4 @@
 {
-    "$schema": "https://raw.githubusercontent.com/legopitstop/JSON-Schemas/main/schemas/shields.io/schema.json",
     "schemaVersion": 1,
     "label": "License",
     "message": "LPS2",

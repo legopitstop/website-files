@@ -14,6 +14,10 @@ https://shields.io/endpoint
 ```BBcode
  [url=https://www.planetminecraft.com/member/legopitstop/submissions][img]https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flegopitstop%2Fwebsite-files%2Fmain%2Fshields.io%2Fplanetminecraft.json[/img][/url]
  ```
+### Html
+```html
+<a href=https://www.planetminecraft.com/member/legopitstop/submissions><img title="Go to planet minecraft" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flegopitstop%2Fwebsite-files%2Fmain%2Fshields.io%2Fplanetminecraft.json"></a>
+```
 
 ## Patreon
 [![img](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flegopitstop%2Fwebsite-files%2Fmain%2Fshields.io%2Fpatreon.json)](https://www.patreon.com/Legopitstop "Go to patreon")
@@ -25,36 +29,67 @@ https://shields.io/endpoint
 ```BBcode
  [url=https://www.patreon.com/Legopitstop][img]https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flegopitstop%2Fwebsite-files%2Fmain%2Fshields.io%2Fpatreon.json[/img][/url]
  ```
+### Html
+```html
+<a href=https://www.patreon.com/Legopitstop><img title="Go to patreon" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flegopitstop%2Fwebsite-files%2Fmain%2Fshields.io%2Fpatreon.json"></a>
+```
 
 ## GitHub Issues
-[![img](https://img.shields.io/github/issues-raw/legopitstop/Lots-More-Food-Mods)](https://github.com/legopitstop/Lots-More-Food-Mods/issues "Go to Github")
+[![github](https://img.shields.io/github/issues-raw/legopitstop/Lots-More-Food-Mods)](https://github.com/legopitstop/Lots-More-Food-Mods/issues "Go to Github")
 ### Markdown
 ```markdown
-[![img](https://img.shields.io/github/issues-raw/legopitstop/Lots-More-Food-Mods)](https://github.com/legopitstop/Lots-More-Food-Mods/issues "Go to Github")
+[![github](https://img.shields.io/github/issues-raw/legopitstop/Lots-More-Food-Mods)](https://github.com/legopitstop/Lots-More-Food-Mods/issues "Go to Github")
 ```
 ### BBcode
 ```BBcode
  [url=https://github.com/legopitstop/Lots-More-Food-Mods/issues][img]https://img.shields.io/github/issues-raw/legopitstop/Lots-More-Food-Mods[/img][/url]
  ```
+### Html
+```html
+<a href=https://github.com/legopitstop/Lots-More-Food-Mods/issues><img title="Go to Github" src="https://img.shields.io/github/issues-raw/legopitstop/Lots-More-Food-Mods"></a>
+```
 
 ## Curseforge
-[![img](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flegopitstop%2Fwebsite-files%2Fmain%2Fshields.io%2Fcurseforge.json)](https://www.curseforge.com/members/legopitstop/projects "Go to curseforge")
+[![curseforge](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flegopitstop%2Fwebsite-files%2Fmain%2Fshields.io%2Fcurseforge.json)](https://www.curseforge.com/members/legopitstop/projects "Go to curseforge")
 ### Markdown
 ```markdown
-[![img](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flegopitstop%2Fwebsite-files%2Fmain%2Fshields.io%2Fcurseforge.json)](https://www.curseforge.com/members/legopitstop/projects "Go to curseforge")
+[![curseforge](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flegopitstop%2Fwebsite-files%2Fmain%2Fshields.io%2Fcurseforge.json)](https://www.curseforge.com/members/legopitstop/projects "Go to curseforge")
 ```
 ### BBcode
 ```BBcode
  [url=https://www.curseforge.com/members/legopitstop/projects][img]https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flegopitstop%2Fwebsite-files%2Fmain%2Fshields.io%2Fcurseforge.json[/img][/url]
  ```
+### Html
+```html
+<a href=https://www.curseforge.com/members/legopitstop/projects><img title="Go to curseforge" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flegopitstop%2Fwebsite-files%2Fmain%2Fshields.io%2Fcurseforge.json"></a>
+```
 
- ## License
-[![img](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flegopitstop%2Fwebsite-files%2Fmain%2Fshields.io%2Flicense.json)](https://legopitstop.weebly.com/legopitstops-common-license-v2.html "Go to legopitstop.weebly.com")
+## License
+[![license](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flegopitstop%2Fwebsite-files%2Fmain%2Fshields.io%2Flicense.json)](https://legopitstop.weebly.com/legopitstops-common-license-v2.html "Go to legopitstop.weebly.com")
 ### Markdown
 ```markdown
-[![img](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flegopitstop%2Fwebsite-files%2Fmain%2Fshields.io%2Flicense.json)](https://legopitstop.weebly.com/legopitstops-common-license-v2.html "Go to legopitstop.weebly.com")
+[![license](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flegopitstop%2Fwebsite-files%2Fmain%2Fshields.io%2Flicense.json)](https://legopitstop.weebly.com/legopitstops-common-license-v2.html "Go to legopitstop.weebly.com")
 ```
 ### BBcode
 ```BBcode
  [url=https://legopitstop.weebly.com/legopitstops-common-license-v2.html][img]https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flegopitstop%2Fwebsite-files%2Fmain%2Fshields.io%2Flicense.json[/img][/url]
  ```
+### Html
+```html
+<a href=https://legopitstop.weebly.com/legopitstops-common-license-v2.html><img title="Go to legopitstop.weebly.com" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flegopitstop%2Fwebsite-files%2Fmain%2Fshields.io%2Flicense.json"></a>
+```
+
+## Discord
+[![discord](https://img.shields.io/discord/479902284810027008)](https://legopitstop.weebly.com/discord.html "Go to legopitstop.weebly.com")
+### Markdown
+```markdown
+[![discord](https://img.shields.io/discord/479902284810027008)](https://legopitstop.weebly.com/discord.html "Go to legopitstop.weebly.com")
+```
+### BBcode
+```BBcode
+ [url=https://legopitstop.weebly.com/discord.html][img]https://img.shields.io/discord/479902284810027008)[/img][/url]
+ ```
+### Html
+```html
+<a href=https://legopitstop.weebly.com/discord.html><img title="Go to Discord" src="https://img.shields.io/discord/479902284810027008)"></a>
+```

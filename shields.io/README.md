@@ -4,7 +4,7 @@ These files use the [shields.io](https://shields.io/) API. Note that these are m
 ## Useful links
 https://shields.io/endpoint
 
-## Plant Minecraft Projects
+## Planet Minecraft Projects
 [![img](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flegopitstop%2Fwebsite-files%2Fmain%2Fshields.io%2Fplanetminecraft.json)](https://www.planetminecraft.com/member/legopitstop/submissions "Go to planet minecraft")
 ### Markdown
 ```markdown
@@ -49,7 +49,7 @@ https://shields.io/endpoint
 <a href=https://github.com/legopitstop/Lots-More-Food-Mods/issues><img title="Go to Github" src="https://img.shields.io/github/issues-raw/legopitstop/Lots-More-Food-Mods"></a>
 ```
 
-## Curseforge
+## Curseforge Projects
 [![curseforge](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flegopitstop%2Fwebsite-files%2Fmain%2Fshields.io%2Fcurseforge.json)](https://www.curseforge.com/members/legopitstop/projects "Go to curseforge")
 ### Markdown
 ```markdown
@@ -62,6 +62,21 @@ https://shields.io/endpoint
 ### Html
 ```html
 <a href=https://www.curseforge.com/members/legopitstop/projects><img title="Go to curseforge" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flegopitstop%2Fwebsite-files%2Fmain%2Fshields.io%2Fcurseforge.json"></a>
+```
+
+## Curseforge Downloads
+[![curseforge](https://cf.way2muchnoise.eu/full_347677_downloads.svg)](https://www.curseforge.com/minecraft/customization/lots-more-food-datapack "Go to curseforge")
+### Markdown
+```markdown
+[![curseforge](https://cf.way2muchnoise.eu/full_347677_downloads.svg)](https://www.curseforge.com/minecraft/customization/lots-more-food-datapack "Go to curseforge")
+```
+### BBcode
+```BBcode
+ [url=https://www.curseforge.com/minecraft/customization/lots-more-food-datapack][img]https://cf.way2muchnoise.eu/full_347677_downloads.svg[/img][/url]
+ ```
+### Html
+```html
+<a href=https://www.curseforge.com/minecraft/customization/lots-more-food-datapack><img title="Go to curseforge" src="https://cf.way2muchnoise.eu/full_347677_downloads.svg"></a>
 ```
 
 ## License

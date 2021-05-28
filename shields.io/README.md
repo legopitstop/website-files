@@ -34,7 +34,7 @@ https://shields.io/endpoint
 <a href=https://www.patreon.com/Legopitstop><img title="Go to patreon" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flegopitstop%2Fwebsite-files%2Fmain%2Fshields.io%2Fpatreon.json"></a>
 ```
 
-## GitHub Issues
+## GitHub Issues (morefood)
 [![github](https://img.shields.io/github/issues-raw/legopitstop/Lots-More-Food-Mods)](https://github.com/legopitstop/Lots-More-Food-Mods/issues "Go to Github")
 ### Markdown
 ```markdown
@@ -87,8 +87,8 @@ https://shields.io/endpoint
 ```
 ### BBcode
 ```BBcode
- [url=https://legopitstop.weebly.com/discord.html][img]https://img.shields.io/discord/479902284810027008)[/img][/url]
- ```
+[url=https://legopitstop.weebly.com/discord.html][img]https://img.shields.io/discord/479902284810027008[/img][/url]
+```
 ### Html
 ```html
 <a href=https://legopitstop.weebly.com/discord.html><img title="Go to Discord" src="https://img.shields.io/discord/479902284810027008)"></a>

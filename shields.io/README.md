@@ -65,10 +65,10 @@ https://shields.io/endpoint
 ```
 
 ## Curseforge Downloads
-[![curseforge](https://cf.way2muchnoise.eu/full_347677_downloads.svg)](https://www.curseforge.com/minecraft/customization/lots-more-food-datapack "Go to curseforge")
+[![curseforge](https://cf.way2muchnoise.eu/full_347677_downloads.svg)](http://www.curseforge.com/minecraft/customization/lots-more-food-datapack "Go to curseforge")
 ### Markdown
 ```markdown
-[![curseforge](https://cf.way2muchnoise.eu/full_347677_downloads.svg)](https://www.curseforge.com/minecraft/customization/lots-more-food-datapack "Go to curseforge")
+[![curseforge](https://cf.way2muchnoise.eu/full_347677_downloads.svg)](http://www.curseforge.com/minecraft/customization/lots-more-food-datapack "Go to curseforge")
 ```
 ### BBcode
 ```BBcode

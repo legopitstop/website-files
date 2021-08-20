@@ -1,0 +1,130 @@
+/*
+* A Github like style for Markdown
+*/
+
+:root {
+    --text: #c9d1d9;
+    --background: #0d1117;
+    --codeblock-background: #161b22;
+    --code-background: #2f333a;
+    --border: #3a424a;
+}
+
+body {
+    color: var(--text);
+    background-color: var(--background);
+}
+
+p {
+    color: var(--text);
+    background-color: var(--background);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: var(--text);
+    background-color: var(--background);
+}
+
+em {
+    color: var(--text);
+    background-color: var(--background);
+}
+
+strong {
+    color: var(--text);
+    background-color: var(--background);
+}
+
+ul {
+    color: var(--text);
+    background-color: var(--background);
+}
+
+ol {
+    color: var(--text);
+    background-color: var(--background);
+}
+
+li {
+    color: var(--text);
+    background-color: var(--background);
+}
+
+a {
+    color: var(--text);
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--text);
+    text-decoration: underline;
+}
+
+blockquote {
+    color: var(--text);
+    border-color: #3a424a;
+    background-color: var(--background);
+}
+
+code:not(pre code) {
+    color: var(--text);
+    background-color: var(--code-background);
+    border-radius: 6px;
+    padding: .2em .4em;
+}
+
+.vscode-dark pre {
+    color: var(--text);
+    background-color: var(--codeblock-background);
+}
+
+.vscode-light pre {
+    color: var(--text);
+    background-color: var(--codeblock-background);
+}
+
+table {
+    border: 1px solid var(--border);
+    border-color: var(--border);
+    color: var(--text);
+    background-color: var(--background);
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.vscode-dark th {
+    border: 1px solid var(--border);
+    color: var(--text);
+    background-color: var(--background);
+}
+
+.vscode-light th {
+    border: 1px solid var(--border);
+    color: var(--text);
+    background-color: var(--background);
+}
+
+td {
+    border: 1px solid var(--border);
+    color: var(--text);
+}
+
+tr:nth-child(even) {
+    background-color: #161b22;
+
+}
+
+tr:nth-child(odd) {
+    background-color: var(--background);
+
+}
+
+img {
+    color: var(--text);
+    background-color: var(--background);
+}
